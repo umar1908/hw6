@@ -1,0 +1,24 @@
+{
+	"name:"  "Bogdan",
+	"surname:"  "Karpochev",
+	"age:"  19,
+	"passport:"  "AB3644433",
+	"student:"  true,
+	"relatives:" [
+		{
+			"name:"  "Inna",
+			"surname:"  "Vladimirovna",
+			"age:"  67,
+			"passport:"  "RU445443344",
+			"student:"  false,
+		},
+		{
+			"name:"  "Aleksey",
+			"surname:"  "Karpochev",
+			"age:"  35,
+			"passport:"  "RU333555777",
+			"student:"  false,
+		},
+
+	],
+}

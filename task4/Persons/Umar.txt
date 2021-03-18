@@ -1,0 +1,24 @@
+{
+	"name:"  "Umar",
+	"surname:"  "Makhsudov",
+	"age:"  19,
+	"passport:"  "AB7588374",
+	"student:"  true,
+	"relatives:" [
+		{
+			"name:"  "Galina",
+			"surname:"  "Puzireva",
+			"age:"  50,
+			"passport:"  "AB45676788",
+			"student:"  false,
+		},
+		{
+			"name:"  "Abdukahar",
+			"surname:"  "Makhsudov",
+			"age:"  55,
+			"passport:"  "AB4578964",
+			"student:"  false,
+		},
+
+	],
+}
